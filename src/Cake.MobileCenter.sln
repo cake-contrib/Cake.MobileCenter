@@ -7,6 +7,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.MobileCenter", "Cake.M
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cake.MobilityCenter.Tests", "Cake.MobilityCenter.Tests\Cake.MobilityCenter.Tests.csproj", "{43AA053A-2C56-4036-8C97-210C34649A7E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3509B976-7BAF-4918-949C-41F194C5E424}"
+	ProjectSection(SolutionItems) = preProject
+		..\.appveyor.yml = ..\.appveyor.yml
+		..\nuspec\nuget\Cake.MobileCenter.nuspec = ..\nuspec\nuget\Cake.MobileCenter.nuspec
+		..\LICENSE = ..\LICENSE
+		..\README.md = ..\README.md
+		..\setup.cake = ..\setup.cake
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
