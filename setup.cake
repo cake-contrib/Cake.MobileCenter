@@ -9,7 +9,9 @@ BuildParameters.SetParameters(
     title: "Cake.MobileCenter",
     repositoryOwner: "cake-contrib",
     repositoryName: "Cake.MobileCenter",
-    appVeyorAccountName: "cakecontrib");
+    appVeyorAccountName: "cakecontrib",
+	shouldRunDupFinder: false,
+    shouldRunInspectCode: false);
 
 BuildParameters.PrintParameters(Context);
 
