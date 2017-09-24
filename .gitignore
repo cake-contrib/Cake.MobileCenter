@@ -235,3 +235,4 @@ testing/
 src/tools
 .cr/
 MobileCenterParser/
+integration-test/
