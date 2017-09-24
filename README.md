@@ -27,3 +27,7 @@ Task("Login")
 	)};
 ```
 Other commands follow same convention.
+
+## Credits
+
+Brought to you by [Miha Markic](https://github.com/MihaMarkic) ([@MihaMarkic](https://twitter.com/MihaMarkic/)) and contributors.
