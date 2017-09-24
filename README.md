@@ -28,6 +28,8 @@ Task("Login")
 ```
 Other commands follow same convention.
 
+This version is built against MobileCenter CLI tools version 0.11.0.
+
 ## Credits
 
 Brought to you by [Miha Markic](https://github.com/MihaMarkic) ([@MihaMarkic](https://twitter.com/MihaMarkic/)) and contributors.
