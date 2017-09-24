@@ -8,7 +8,7 @@ A Cake AddIn that extends Cake with [Docker](https://www.docker.com/) command to
 ## Including addin
 Including addin in cake script is easy.
 ```
-#addin "Cake.Docker"
+#addin "Cake.MobileCenter"
 ```
 ## Usage
 
