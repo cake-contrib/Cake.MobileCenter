@@ -303,7 +303,7 @@ namespace Cake.MobileCenter
         }
 
         /// <summary>
-        /// Converts property name to docker arguments format
+        /// Converts property name to mobile-center arguments format
         /// </summary>
         /// <param name="name"></param>
         /// <returns></returns>
