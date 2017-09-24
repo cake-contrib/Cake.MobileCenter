@@ -1,9 +1,9 @@
 ﻿# Cake.MobileCenter
 
-A Cake AddIn that extends Cake with [Docker](https://www.docker.com/) command tools.
+A Cake AddIn that extends Cake with [MobileCenter](https://docs.microsoft.com/en-us/mobile-center/) command tools.
 
 [![cakebuild.net](https://img.shields.io/badge/WWW-cakebuild.net-blue.svg)](http://cakebuild.net/)
-[![NuGet](https://img.shields.io/nuget/v/Cake.MobileCenter.svg)](https://www.nuget.org/packages/Cake.Docker)
+[![NuGet](https://img.shields.io/nuget/v/Cake.MobileCenter.svg)](https://www.nuget.org/packages/Cake.MobileCenter)
 
 ## Including addin
 Including addin in cake script is easy.
