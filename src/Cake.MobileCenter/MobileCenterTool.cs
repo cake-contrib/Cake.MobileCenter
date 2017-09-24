@@ -48,7 +48,7 @@ namespace Cake.MobileCenter
         /// <returns>The tool executable name.</returns>
         protected override IEnumerable<string> GetToolExecutableNames()
         {
-            return new[] { "mobile-center" };
+            return new[] { "mobile-center.cmd", "mobile-center" };
         }
     }
 }
