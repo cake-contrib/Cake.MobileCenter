@@ -1,5 +1,6 @@
 ﻿using Cake.MobileCenter;
 using NUnit.Framework;
+using System;
 
 namespace Cake.MobilityCenter.Tests.Apps.Create
 {
@@ -15,7 +16,6 @@ namespace Cake.MobilityCenter.Tests.Apps.Create
             };
 
             var actual = fixture.Run();
-
             Assert.That(actual.Args, Is.EqualTo("apps create --platform \"x86\" --token \"AlfaBeta\""));
         }
     }
