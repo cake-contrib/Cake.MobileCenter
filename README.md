@@ -5,6 +5,10 @@ A Cake AddIn that extends Cake with [MobileCenter](https://docs.microsoft.com/en
 [![cakebuild.net](https://img.shields.io/badge/WWW-cakebuild.net-blue.svg)](http://cakebuild.net/)
 [![NuGet](https://img.shields.io/nuget/v/Cake.MobileCenter.svg)](https://www.nuget.org/packages/Cake.MobileCenter)
 
+## Important
+
+Since 1.1.0 it supports Cake 0.26 and .NET Standard 2.0 only.
+
 ## Including addin
 Including addin in cake script is easy.
 ```

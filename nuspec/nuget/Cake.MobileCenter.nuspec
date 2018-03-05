@@ -10,14 +10,12 @@
     <projectUrl>https://github.com/cake-contrib/Cake.MobileCenter</projectUrl>
     <iconUrl>https://cdn.rawgit.com/cake-contrib/graphics/a5cf0f881c390650144b2243ae551d5b9f836196/png/cake-contrib-medium.png</iconUrl>
     <description>MobileCenter Addin for Cake Build, Test and Deployment Automation System.</description>
-    <copyright>Copyright 2017 (c) Miha Markic and contributors</copyright>
+    <copyright>Copyright 2018 (c) Miha Markic and contributors</copyright>
     <tags>Cake Script Build Test Deploy MobileCenter Deployment</tags>
     <repository type="GitHub" url="https://github.com/cake-contrib/Cake.MobileCenter" />
   </metadata>
   <files>
-    <file src="net46\Cake.MobileCenter.dll" target="lib/net46" />
-    <file src="net46\Cake.MobileCenter.xml" target="lib/net46" />
-    <file src="netstandard1.6\Cake.MobileCenter.dll" target="lib/netstandard1.6" />
-    <file src="netstandard1.6\Cake.MobileCenter.xml" target="lib/netstandard1.6" />
+    <file src="netstandard2.0\Cake.MobileCenter.dll" target="lib/netstandard2.0" />
+    <file src="netstandard2.0\Cake.MobileCenter.xml" target="lib/netstandard2.0" />
   </files>
 </package>
