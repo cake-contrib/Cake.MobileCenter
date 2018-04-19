@@ -2,7 +2,7 @@
 
 A Cake AddIn that extends Cake with [MobileCenter](https://docs.microsoft.com/en-us/mobile-center/) command tools.
 
-IMPORTANT: Microsoft deprected Mobile Center and moved it to [App Center](https://docs.microsoft.com/en-us/appcenter/cli/). This addin is in maintenance mode, further developement will be done on [Cake.AppCenter](https://github.com/cake-contrib/Cake.AppCenter).
+IMPORTANT: Microsoft deprecated Mobile Center and moved it to [App Center](https://docs.microsoft.com/en-us/appcenter/cli/). This addin is in maintenance mode, further developement will be done on [Cake.AppCenter](https://github.com/cake-contrib/Cake.AppCenter).
 
 [![cakebuild.net](https://img.shields.io/badge/WWW-cakebuild.net-blue.svg)](http://cakebuild.net/)
 [![NuGet](https://img.shields.io/nuget/v/Cake.MobileCenter.svg)](https://www.nuget.org/packages/Cake.MobileCenter)
