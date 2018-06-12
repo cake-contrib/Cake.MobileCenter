@@ -20,6 +20,7 @@ namespace Cake.MobilityCenter.Tests.Apps.Create
         ICakeArguments ICakeContext.Arguments => throw new NotImplementedException();
         IProcessRunner ICakeContext.ProcessRunner => ProcessRunner;
         public IRegistry Registry => Registry;
+        public ICakeDataResolver Data => throw new NotImplementedException();
         public MobileCenterAppsCreateFixture(): base("mobility-center")
         {
             Tools = Substitute.For<IToolLocator>();
